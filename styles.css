@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+    width: 100%;
+    }
+    h1{
+        flex: 1;
+    }
+    nav{
+        flex:1;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        }
+    
